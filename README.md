@@ -1,11 +1,6 @@
 ## Installation
 Code for backed part of data visualization project.
 
-## Live Demo
-[Live App](https://data-viz-sagyam.vercel.app)
-
-[Frontend Codebase](https://github.com/Sagyam/data-viz)
-
 ## Tech Stack
 - NestJS
 - Prisma
